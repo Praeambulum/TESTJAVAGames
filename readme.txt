@@ -1,2 +1,2 @@
-This is examples for JAVA games.
+This directory contains some examples for JAVA games.
 
